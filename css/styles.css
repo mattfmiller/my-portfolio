@@ -1,4 +1,5 @@
 .banner {
+  font-weight: bold;
   text-align: center;
   font-size:
 }
@@ -11,5 +12,12 @@
 }
 
 p.lang {
+  font-style: italic;
+}
+.employer {
+  font-weight: bold;
+}
+
+.dates {
   font-style: italic;
 }
