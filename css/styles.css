@@ -1,3 +1,8 @@
+body {
+  background-color: #2d2d2d;
+  color: white;
+}
+
 .banner {
   font-weight: bold;
   text-align: center;
@@ -14,6 +19,7 @@
 p.lang {
   font-style: italic;
 }
+
 .employer {
   font-weight: bold;
 }
