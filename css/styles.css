@@ -34,7 +34,7 @@ p.lang {
   font-style: italic;
 }
 
-.container h1 {
+.container-fluid h1 {
   border: 1px solid slategrey;
   padding: 3px 10px;
   background-image: url(../img/);
@@ -42,18 +42,18 @@ p.lang {
   margin-right: 400px;
 }
 
-.container h2 {
+.container-fluid h2 {
   border: 1px solid slategrey;
   padding: 3px 10px;
   background-color: dimgrey;
   margin-right: 910px;
 }
 
-.container {
-  margin-left: 30px;
+.container-fluid {
+
 }
 
-.container a {
+.container-fluid a {
   font-size: 15px;
 }
 
@@ -67,9 +67,10 @@ p.lang {
 }
 
 .row img {
-  height: 150px;
+  width: 150px;
   float: left;
-  padding: 15px
+  padding: 15px;
+  padding-left: 5px;
 }
 
 .project-box li {
@@ -79,6 +80,7 @@ p.lang {
   padding: 20px;
   background-color: Gainsboro;
   margin: 15px;
+  min-height: 180px;
 }
 
 .project-box a {
