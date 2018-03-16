@@ -27,3 +27,15 @@ p.lang {
 .dates {
   font-style: italic;
 }
+
+.sections {
+  border: 1px solid black;
+  padding: 3px;
+  background-color: darkgrey;
+  margin-right: 200px;
+}
+
+.clip-art img{
+  height: 20px;
+  float: right;
+}
