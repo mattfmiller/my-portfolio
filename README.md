@@ -1,19 +1,18 @@
-# _{Application Name}_
+# Matt Miller's Portfolio
 
-#### _{Brief description of application}, March 16th, 2018
+#### A portfolio of Matt Miller's work, March 16th, 2018
 
 #### By Matt Miller
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This is an HTML document that acts as a landing page for Matt Miller's portfolio of projects created at Epicodus.
 
 ## Setup/Installation Requirements
 
 * Clone repository
 * Open in browser
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
