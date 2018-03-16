@@ -7,17 +7,26 @@ ul {
   list-style-type: none;
 }
 
+ol {
+  list-style-type: none;
+}
+
+.jumbotron {
+  text-align: right;
+  background-color: #2d2d2d;
+  border-bottom: 2px solid lightgrey;
+}
+
+.jumbotron h1 {
+  margin-right: 30px;
+}
+
 .jumbotron img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 300px;
   border-radius: 50%;
-}
-
-.jumbotron {
-  text-align: center;
-  background-color: #2d2d2d;
 }
 
 /*.banner h1 {
@@ -33,19 +42,6 @@ ul {
   margin-left: 0;
   margin-right: auto;
 }*/
-
-p.lang {
-  font-style: italic;
-  font-size: 15px;
-}
-
-.employer {
-  font-weight: bold;
-}
-
-.dates {
-  font-style: italic;
-}
 
 .container-fluid h1 {
   border: 1px solid slategrey;
@@ -63,9 +59,6 @@ p.lang {
   max-width: 600px;
 }
 
-.container-fluid {
-
-}
 
 .container-fluid a {
   font-size: 20px;
@@ -76,8 +69,13 @@ p.lang {
   float: right;
 }
 
-.about {
-  margin-left: 5px;
+p.lang {
+  font-style: italic;
+  font-size: 15px;
+}
+
+ol .lang {
+  font-weight: bold;
 }
 
 .project-box img {
@@ -100,7 +98,19 @@ p.lang {
 }
 
 .project-box a {
-  font-size: 15px;
+  font-size: 20px;
+}
+
+.employer {
+  font-weight: bold;
+}
+
+.dates {
+  font-style: italic;
+}
+
+.about {
+  margin-left: 5px;
 }
 
 .interests-box img {
@@ -124,8 +134,4 @@ p.lang {
 
 .interests-box a {
   font-size: 20px;
-}
-
-.right {
-  float: right;
 }
