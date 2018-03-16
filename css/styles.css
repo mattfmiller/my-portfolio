@@ -31,9 +31,16 @@ p.lang {
 
 .container h1 {
   border: 1px solid slategrey;
-  padding: 5px;
+  padding: 3px 10px;
   background-color: dimgrey;
   margin-right: 400px;
+}
+
+.container h2 {
+  border: 1px solid slategrey;
+  padding: 3px 10px;
+  background-color: dimgrey;
+  margin-right: 910px;
 }
 
 .container {
@@ -47,4 +54,8 @@ p.lang {
 .icon img{
   height: 20px;
   float: right;
+}
+
+.about {
+  margin-left: 5px;
 }
