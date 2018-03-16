@@ -3,6 +3,10 @@ body {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .banner h1 {
   color: black;
   font-weight: bold;
@@ -19,6 +23,7 @@ body {
 
 p.lang {
   font-style: italic;
+  font-size: 15px;
 }
 
 .employer {
@@ -32,7 +37,8 @@ p.lang {
 .container h1 {
   border: 1px solid slategrey;
   padding: 3px 10px;
-  background-color: dimgrey;
+  background-image: url(../img/);
+  opacity: .5;
   margin-right: 400px;
 }
 
@@ -58,4 +64,23 @@ p.lang {
 
 .about {
   margin-left: 5px;
+}
+
+.row img {
+  height: 150px;
+  float: left;
+  padding: 15px
+}
+
+.project-box li {
+  font-size: 20px;
+  color: black;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: Gainsboro;
+  margin: 15px;
+}
+
+.project-box a {
+  font-size: 25px;
 }
