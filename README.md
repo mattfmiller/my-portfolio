@@ -1,6 +1,6 @@
 # Matt Miller's Portfolio
 
-#### A portfolio of Matt Miller's work, March 16th, 2018
+#### A portfolio of Matt Miller's projects, March 16th, 2018
 
 #### By Matt Miller
 
@@ -10,9 +10,8 @@ This is an HTML document that acts as a landing page for Matt Miller's portfolio
 
 ## Setup/Installation Requirements
 
-* Clone repository
+* Clone repository from https://github.com/mattfmiller/my-portfolio
 * Open in browser
-
 
 ## Known Bugs
 
