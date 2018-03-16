@@ -7,7 +7,20 @@ ul {
   list-style-type: none;
 }
 
-.banner h1 {
+.jumbotron img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #2d2d2d;
+}
+
+/*.banner h1 {
   color: White;
   font-weight: bold;
   text-align: center;
@@ -19,7 +32,7 @@ ul {
   display: block;
   margin-left: 0;
   margin-right: auto;
-}
+}*/
 
 p.lang {
   font-style: italic;
@@ -40,14 +53,14 @@ p.lang {
   background-color: dimgrey;
   background-image: url(../img/);
   /*opacity: .5;*/
-  max-width: 700px;
+  max-width: 850px;
 }
 
 .container-fluid h2 {
   border: 1px solid slategrey;
   padding: 3px 10px;
   background-color: dimgrey;
-  max-width: 400px;
+  max-width: 600px;
 }
 
 .container-fluid {
@@ -82,6 +95,8 @@ p.lang {
   background-color: Gainsboro;
   margin: 15px;
   min-height: 200px;
+  max-width: 700px;
+  min-width: 400px;
 }
 
 .project-box a {
@@ -103,8 +118,14 @@ p.lang {
   background-color: Gainsboro;
   margin: 15px;
   min-height: 100px;
+  max-width: 700px;
+  min-width: 400px;
 }
 
 .interests-box a {
   font-size: 20px;
+}
+
+.right {
+  float: right;
 }
