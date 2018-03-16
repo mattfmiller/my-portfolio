@@ -3,11 +3,7 @@ body {
   color: white;
 }
 
-ul {
-  list-style-type: none;
-}
-
-ol {
+ul, ol {
   list-style-type: none;
 }
 
@@ -29,26 +25,10 @@ ol {
   border-radius: 50%;
 }
 
-/*.banner h1 {
-  color: White;
-  font-weight: bold;
-  text-align: center;
-  font-size: 75px;
-}
-
-.banner img {
-  max-width: 100%;
-  display: block;
-  margin-left: 0;
-  margin-right: auto;
-}*/
-
 .container-fluid h1 {
   border: 1px solid slategrey;
   padding: 3px 10px;
   background-color: dimgrey;
-  background-image: url(../img/);
-  /*opacity: .5;*/
   max-width: 850px;
 }
 
@@ -59,23 +39,9 @@ ol {
   max-width: 600px;
 }
 
-
-.container-fluid a {
-  font-size: 20px;
-}
-
 .icon img{
   height: 20px;
   float: right;
-}
-
-p.lang {
-  font-style: italic;
-  font-size: 15px;
-}
-
-ol .lang {
-  font-weight: bold;
 }
 
 .project-box img {
@@ -86,7 +52,7 @@ ol .lang {
 }
 
 .project-box li {
-  font-size: 20px;
+  font-size: 18px;
   color: black;
   border: 1px solid black;
   padding: 20px;
@@ -101,6 +67,11 @@ ol .lang {
   font-size: 20px;
 }
 
+p.lang {
+  font-style: italic;
+  font-size: 15px;
+}
+
 p.about{
   padding: 25px 0px;
 }
@@ -111,10 +82,6 @@ p.about{
 
 .dates {
   font-style: italic;
-}
-
-.about {
-  margin-left: 5px;
 }
 
 .interests-box img {
@@ -137,5 +104,5 @@ p.about{
 }
 
 .interests-box a {
-  font-size: 20px;
+  font-size: 18px;
 }
