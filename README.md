@@ -16,7 +16,7 @@ This is an HTML document that acts as a landing page for Matt Miller's portfolio
 
 ## Known Bugs
 
-* Photo portfolio link is inactive.
+* none
 
 ## Support and contact details
 
