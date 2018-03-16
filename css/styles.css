@@ -101,6 +101,10 @@ ol .lang {
   font-size: 20px;
 }
 
+p.about{
+  padding: 25px 0px;
+}
+
 .employer {
   font-weight: bold;
 }
