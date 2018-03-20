@@ -6,7 +6,7 @@
 
 ## Description
 
-This is an HTML document that acts as a landing page for Matt Miller's portfolio of projects created at Epicodus.
+This is an HTML document that acts as a landing page for Matt Miller's portfolio of projects created at Epicodus. Please visit <a href="https://mattfmiller.github.io/my-portfolio/">here.</a>
 
 ## Setup/Installation Requirements
 
